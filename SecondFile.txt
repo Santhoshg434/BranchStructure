@@ -1,0 +1,5 @@
+
+void Test2()
+{
+  var = "Created Test2 method in SecondFile and this is feature2 branch"
+}
